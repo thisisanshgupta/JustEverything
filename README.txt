@@ -1,9 +1,3 @@
-# SwiftMokey
-An interpreter for the Monkey programming language written in Swift.
-
-What is monkey language ?
----------
-Monkey is a programming language used in a book ["Writing An Interpreter In Go"](https://interpreterbook.com/) by Thorsten Ball.
 
 Language Features
 - C style syntax
